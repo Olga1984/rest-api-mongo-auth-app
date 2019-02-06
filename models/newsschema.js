@@ -3,7 +3,7 @@ const Schema = mongoose.Schema;
 
 const NewsSchema = new Schema({
     news: {
-        news: {type: String,
+        description: {type: String,
         required:[true, 'news is required']},
         title: String
     }

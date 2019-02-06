@@ -40,7 +40,7 @@ news
 
 {
     "news": {
-    "news": "hello news1",
+    "description": "hello news1",
         "title": "news title"
 }
 }
@@ -49,7 +49,7 @@ news
 
 {
     "news": {
-    "news": "hello news1",
+    "description": "hello news1",
         "title": "news title"
 }
 }
